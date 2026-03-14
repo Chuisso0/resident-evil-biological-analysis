@@ -35,11 +35,11 @@ Este projeto realiza uma análise de dados sobre os monstros da franquia **Resid
 O dataset utilizado neste projeto foi criado manualmente por mim, através de uma pesquisa detalhada na lore da franquia Resident Evil. Foram catalogadas mais de 230 criaturas, cruzando informações de agentes biológicos e aparições em cada título. As informações foram coletadas a partir de wikis da comunidade e materiais oficiais da franquia.
 
 ## 📊 Insights Principais
-1. **Inimigos Icônicos:** Fora os *zumbis* convencionais, *Cerberus* são os inimigos que mais aparecem em jogos diferentes.Seguidos dos *Crows*, *Hunter alpha* e *Lickers*.
+1. **Inimigos Mais Presentes:** Fora os *zumbis* convencionais, *Cerberus* são os inimigos que mais aparecem em jogos diferentes.Seguidos dos *Crows*, *Hunter alpha* e *Lickers*.
 
 ![Inimigos mais comuns em jogos](./imagens/inimigos_mais_comuns.png)
 
-2. **Era das Crônicas:** Os títulos *The Umbrella Chronicles* e *The Darkside Chronicles* lideram em variedade por servirem como compilações históricas.
+2. **Jogos Com Mais Variedades:** Os títulos *The Umbrella Chronicles* e *The Darkside Chronicles* lideram em variedade por servirem como compilações históricas.
 
 ![Jogos com mais variações de inimigos](./imagens/jogos_mais_variacoes.png)
 
